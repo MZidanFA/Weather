@@ -188,6 +188,15 @@ body {
     }
 }
 
+@media (max-width: 1040px){
+    body {
+        height: 100vh;
+    }
+    .container {
+        width: 55%;
+    }
+}
+
 @media (max-width: 575px){
     body {
         height: 100vh;
