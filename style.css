@@ -187,3 +187,12 @@ body {
         opacity: 1;
     }
 }
+
+@media (max-width: 575px){
+    body {
+        height: 100vh;
+    }
+    .container {
+        width: 66%;
+    }
+}
